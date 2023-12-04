@@ -1,0 +1,11 @@
+public function index (){
+  $data ""{
+    'nama' => 'reinalda',
+    'email' => 'reinaldareniswatihalawa@gmail.com',
+    'telp' => '081222849727'
+}
+
+if ($data['nama']== 'reinalda') {
+  $string ' 'Nama terdaftar'$
+} else {
+  $sting ' 'test'$
